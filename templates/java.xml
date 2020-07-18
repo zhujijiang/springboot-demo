@@ -1,0 +1,7 @@
+<templateSet group="java">
+  <template name="test" value="@Test&#10;public void test() {&#10;&#10;&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
