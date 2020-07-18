@@ -1,7 +1,0 @@
-<templateSet group="user">
-  <template name="t" value="@Test&#10;public void test() {&#10;&#10;&#10;    System.out.println();&#10;&#10;}" description="" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_CODE" value="true" />
-    </context>
-  </template>
-</templateSet>
