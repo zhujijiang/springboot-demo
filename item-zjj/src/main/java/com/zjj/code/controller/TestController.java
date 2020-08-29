@@ -18,6 +18,11 @@ public class TestController {
     @Autowired
     private TestService testService;
 
+    @RequestMapping("hello")
+    public String hello(String type) throws Exception {
+        return "hello boy";
+    }
+
     @RequestMapping("say")
     public String test(String type) throws Exception {
 
