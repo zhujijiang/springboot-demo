@@ -1,1 +1,5 @@
-<code_scheme name="Default" version="173" />
+<code_scheme name="Default" version="173">
+  <JavaCodeStyleSettings>
+    <option name="ENABLE_JAVADOC_FORMATTING" value="false" />
+  </JavaCodeStyleSettings>
+</code_scheme>
